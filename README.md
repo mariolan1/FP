@@ -1,2 +1,2 @@
 # FP
-Practicas de FP UCM
+Asignatura de Fundamentos de programación.
