@@ -8,7 +8,7 @@
 
 
 /*--------------------------------------------------------------------------
-								Librearias
+				Librearias
 --------------------------------------------------------------------------*/
 #include <iostream> //console input and output
 #include <iomanip>	//manipular espacios
@@ -20,7 +20,7 @@ using namespace std;
 
 
 /*--------------------------------------------------------------------------
-								Subprogramas
+				Subprogramas
 --------------------------------------------------------------------------*/
 
 /* Permite a cualquiera de los dos jugadores realizar su turno del modo A 
@@ -47,7 +47,7 @@ int determinaGanador(float puntosJugador, float puntosMaquina);
 
 
 /*--------------------------------------------------------------------------
-						Subprogramas opcionales
+			Subprogramas opcionales
 --------------------------------------------------------------------------*/
 
 /*Lleva la logica principal del juego para el modoA y modoB*/
@@ -62,7 +62,7 @@ int menu(string nickname);
 
 
 /*--------------------------------------------------------------------------
-						Funcion principal del programa
+			Funcion principal del programa
 --------------------------------------------------------------------------*/
 int main() {
 
@@ -80,7 +80,7 @@ int main() {
 }
 
 /*--------------------------------------------------------------------------
-					Implementacion		Subprogramas
+			Implementacion		Subprogramas
 --------------------------------------------------------------------------*/
 void run(string yourname) {
 
